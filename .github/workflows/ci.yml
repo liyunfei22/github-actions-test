@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        users: actions/checkout@master
+        uses: actions/checkout@master
 
       - name: build and Deploy
-        users: JamesIves/github-pages-deploy-action@master
+        uses: JamesIves/github-pages-deploy-action@master
         env: 
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
