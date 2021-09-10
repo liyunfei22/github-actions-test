@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.e4fb5277.chunk.js",
-    "main.js.map": "/static/js/main.e4fb5277.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.20b5c330.js",
-    "runtime-main.js.map": "/static/js/runtime-main.20b5c330.js.map",
-    "static/js/2.29a986b8.chunk.js": "/static/js/2.29a986b8.chunk.js",
-    "static/js/2.29a986b8.chunk.js.map": "/static/js/2.29a986b8.chunk.js.map",
-    "static/js/3.182087f5.chunk.js": "/static/js/3.182087f5.chunk.js",
-    "static/js/3.182087f5.chunk.js.map": "/static/js/3.182087f5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.29a986b8.chunk.js.LICENSE.txt": "/static/js/2.29a986b8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/github-actions-test/static/css/main.a617e044.chunk.css",
+    "main.js": "/github-actions-test/static/js/main.e4fb5277.chunk.js",
+    "main.js.map": "/github-actions-test/static/js/main.e4fb5277.chunk.js.map",
+    "runtime-main.js": "/github-actions-test/static/js/runtime-main.b0e1019d.js",
+    "runtime-main.js.map": "/github-actions-test/static/js/runtime-main.b0e1019d.js.map",
+    "static/js/2.29a986b8.chunk.js": "/github-actions-test/static/js/2.29a986b8.chunk.js",
+    "static/js/2.29a986b8.chunk.js.map": "/github-actions-test/static/js/2.29a986b8.chunk.js.map",
+    "static/js/3.182087f5.chunk.js": "/github-actions-test/static/js/3.182087f5.chunk.js",
+    "static/js/3.182087f5.chunk.js.map": "/github-actions-test/static/js/3.182087f5.chunk.js.map",
+    "index.html": "/github-actions-test/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/github-actions-test/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.29a986b8.chunk.js.LICENSE.txt": "/github-actions-test/static/js/2.29a986b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github-actions-test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20b5c330.js",
+    "static/js/runtime-main.b0e1019d.js",
     "static/js/2.29a986b8.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.e4fb5277.chunk.js"
